@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人简历</title>
+    <style>
+        .nav {
+            background-color: #1c0eeb;
+            text-align: center;
+        }
+        .nav a {
+            display: inline-block;
+            background-color: #1c0eeb;
+            color: white;
+            text-align: center;
+            padding-top: 10px;
+            text-decoration: none;
+            width: 24%;
+            height: 50px;
+            font: 40px 黑体;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href=" ">个人简介</a >
+        <a href="#222">教育经历</a >
+        <a href="#333">获奖情况</a >
+        <a href="#444">实习经历</a >
+    </div>
+    <h2><a name="111">个人简介</a ></h2>
+    <div class="p1">本人陈郅聪，现年20岁，毕业于大连海洋大学，专业大数据。性格开朗，乐于接受新事物，具备良好的素养</div>
+</body>
+</html>
